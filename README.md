@@ -12,3 +12,12 @@ To play the game:
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+## Fixing your pull request
+The first comment on your pull request will have the default text of No description provided. Click on the pencil icon located at the top right corner of the comment box to make an edit.
+Add a description of the changes you've made in the comment box. Feel free to add a description of what you’ve accomplished so far. As a reminder, you have:
+
+* Left reviews and line comments
+* Created a file and made a commit
+* Opened a pull request
+* Click the green Update comment button at the bottom right of the comment box when done.
